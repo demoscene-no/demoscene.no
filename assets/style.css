@@ -1,0 +1,128 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#logo {
+  display: block;
+}
+
+body {
+  background: silver;
+  color: black;
+  font-size: x-small;
+  font-family: verdana, sans-serif;
+  font-size: 1em;
+}
+
+#tagline,
+#lenker,
+#rss {
+  text-align: center;
+}
+
+.main {
+  width: auto;
+  margin: 10px 10%;
+  background: white;
+  border: 1px solid black;
+}
+
+.sortbelte {
+  background: black;
+  color: white;
+  text-align: center;
+  white-space: nowrap;
+  font-size: x-small;
+}
+
+.sortbelte a {
+  color: white;
+}
+
+.bruker,
+#lenker {
+  padding: 5px 10px;
+  border-bottom: 1px solid black;
+  font-size: x-small;
+}
+
+.meny {
+  width: 200px;
+  float: right;
+  border-left: 1px solid black;
+  font-size: x-small;
+}
+
+.grensesnitt {
+  border-bottom: 1px solid black;
+  padding: 5px 10px;
+  font-size: 0.9em;
+}
+
+.tekstfelt {
+  padding: 5px 10px;
+}
+
+.kommentarlinje {
+  font-size: x-small;
+  margin-top: 0px;
+  font-style: italic;
+}
+
+.nyhet {
+  margin: auto 0;
+  font-size: 0.7em;
+}
+
+.overskrift {
+  font-weight: bold;
+  font-size: medium;
+}
+
+.info {
+  font-style: italic;
+  font-size: x-small;
+}
+
+.fotnote {
+  text-align: center;
+  clear: right;
+  font-size: x-small;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input {
+  background: white;
+  color: black;
+  font-size: xx-small;
+  border: 1px solid black;
+  height: 16px;
+}

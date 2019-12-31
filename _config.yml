@@ -5,12 +5,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://demoscene.no"
 github_username:  demoscene-no
 
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
 
-paginate: 5
+paginate: 10
 
 collections:
   articles:

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{% link assets/style.css %}">
+  </head>
+  <body>
+    <div id="tagline">New and "improved" source code!</div>
+    <div class="main">
+      <a href="{% link index.html %}">
+        <img id="logo" src="http://demoscene.no/logos/default.jpg" width="320" height="164">
+      </a>
+      <div class="sortbelte">
+        <a href="{% link index.html %}">nyheter</a> -
+        <a href="/forum/">forum</a> -
+        <a href="artikkel.php">artikler</a> -
+        utgivelser -
+        party -
+        <a href="link.php">linker</a>
+      </div>
+
+      <div class="bruker">
+        <form action="/" method="post">
+          <p>
+            <input name="username" value="brukernavn" size="15" onfocus="this.value=''">
+            <input type="password" name="password" value="passord" size="15" onfocus="this.value=''">
+            <input type="submit" value="logg inn">
+            <input type="reset" value="nullstill">
+            <input type="checkbox" name="one_year" value="false">logg inn for ett år<br>
+            <a href="nybruker.php">ny bruker</a> - <a href="glemtpassord.php">glemt passord</a>
+          </p>
+        </form>
+      </div>
+
+      <div id="lenker">
+        <a href="http://www.pouet.net" target="_blank">pouet</a> -
+        <a href="http://www.scene.org" target="_blank">scene.org</a> -
+        <a href="http://www.ojuice.net" target="_blank">ojuice</a> -
+        <a href="http://www.scenemusic.net" target="_blank">nectarine</a> -
+        <a href="http://quotes.demoscene.no" target="_blank">quotes</a> -
+        <a href="http://www.slengpung.com" target="_blank">slengpung</a>
+      </div>
+
+      <div class="meny">
+      <table cellspacing="0" border="0">
+      <tbody>
+      <tr><td>
+        <div class="grensesnitt" style="background-color: white;">
+          <div class="overskrift">oneliner</div>
+          <div style="font-size:x-small">
+            <b>Anonym - </b>MTU2MjczMTkxOA'"`<br>
+            <b>Anonym - </b>ZGVtb3NjZW5lLm5v<br>
+            <b>Anonym - </b>ZGVtb3NjZW5lLm5v''<br>
+            <b>Anonym - </b>MTU1Mjk0NTE4OA'"`<br>
+            <b>Anonym - </b>Aammiiigggaaahh!!!<br>
+            <b>Anonym - </b>JegErFraIsland,SnakkerIkkeNorsk<br>
+            <b>Anonym - </b>Vim<br>
+            <b>Anonym - </b>beep!<br>
+            <b>Anonym - </b>Kusma er en sykdom<br>
+            <b>Anonym - </b>Kule kids scener i 2018<br>
+            <form action="" method="post">
+              <br>
+              <input name="beskjed" value="" size="20" maxlength="32">
+              <input type="submit" name="oneliner" value="snakk">
+            </form>
+          </div>
+        </div>
+      </td></tr>
+      <tr><td>
+        <div class="grensesnitt" style="background-color: white;">
+          <table style="font-size:x-small" cols="2" width="100%">
+            <tbody>
+              <tr><td colspan="2"><div class="overskrift"></div></td></tr>
+              <tr><td width="50%"><b>Valg</b></td><td align="center"><b>Resultat</b></td></tr>
+              <tr><td>Vim</td><td align="center">3</td></tr>
+              <tr><td>UltraEdit</td><td align="center">1</td></tr>
+              <tr><td>Visual Studio</td><td align="center">4</td></tr>
+              <tr><td>Notepad</td><td align="center">2</td></tr>
+              <tr><td><b>Totalt</b></td><td align="center"><b>10</b></td></tr>
+              <tr><td colspan="2"><i>Logg inn for å stemme</i></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </td></tr>
+      </tbody></table>
+      </div>
+
+      {{ content }}
+
+      <div class="fotnote">
+        dezin: <a href="mailto:eflund@dontfuckingspamme.online.no">kusma</a> | webmaster: <a href="mailto:silmaril@dontfuckingspammeeither.online.no">silmaril</a>
+      </div>
+    </div>
+
+    <div id="rss">
+      <a href="{{ 'feed.xml' | relative_url }}">
+        <img src="http://demoscene.no/gfx/valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed">
+      </a>
+    </div>
+  </body>
+</html>
