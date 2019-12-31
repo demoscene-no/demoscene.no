@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {% endif %}
+
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <ul class="post-list">
+  {% for post in paginator.posts %}
+    {% if post.external_link %}
+    <h2><a href="{{ post.external_link }}">{{ post.title }}</a></h2>
+    {% else %}
+    <h2>{{ post.title }}</h2>
+    {% endif %}
+    <p class="post-meta">
+         <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+           {{ page.date | date: date_format }}
+         </time>
+         {%- if page.author -%}
+           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
+         {%- endif -%}
+    </p>
+    <div class="content">
+      {{ post.content }}
+    </div>
+  {% endfor %}
+  </ul>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Ferskere nyheter</a>
+    {% endif %}
+
+    {% if paginator.previous_page and paginator.next_page %}
+    -
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Eldre nyheter</a>
+    {% endif %}
+  </div>
+
+<p class="feed-subscribe">
+<a href="{{ 'feed.xml' | relative_url }}">
+<svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
+</a>
+</p>
+
+</div>

@@ -8,6 +8,9 @@ github_username:  demoscene-no
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
 
 collections:
   articles:
