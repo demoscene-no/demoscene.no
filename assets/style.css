@@ -68,24 +68,23 @@ body {
   padding: 0.5rem 1rem;
 }
 
-.nyhet {
-  margin: auto 0;
-  font-size: 1rem;
-}
-
-.overskrift {
+.news-item h2 {
   font-weight: bold;
   font-size: 1.2rem;
 }
 
-.info {
+.news-item .info {
   font-style: italic;
   font-size: 0.75rem;
 }
 
-.fotnote {
+.news-item article {
+  margin: auto 0;
+  font-size: 1rem;
+}
+
+footer {
   text-align: center;
-  clear: right;
   font-size: 0.75rem;
 }
 
@@ -102,4 +101,9 @@ a:hover {
   padding-bottom: 1em;
   margin-bottom: 1em;
   border-bottom: 1px solid #ddd;
+}
+
+nav.pagination {
+  text-align: center;
+  font-size: 0.75rem;
 }

@@ -4,30 +4,30 @@ layout: default
 
 <div class="tekstfelt">
 
-  <div class="home">
+  <ul class="home">
 {% for post in paginator.posts %}
-    <div class="news-item">
-      <div class="overskrift">
+    <li class="news-item">
+      <h2>
   {% if post.external_link %}
         <a href="{{ post.external_link }}" target="_blank">{{ post.title }}</a>
   {% else %}
         {{ post.title }}
   {% endif %}
-      </div>
+      </h2>
       <div class="info">
         lagt til av {{ post.author | escape }} den {{ post.date | date: "%d/%m-%Y"}}
       </div>
-      <div class="nyhet">
+      <article>
         {{ post.content }}
-      </div>
-    </div>
+      </article>
+    </li>
 {% endfor %}
-  </div>
+  </ul>
 
   <!-- Pagination links -->
-  <center>
+  <nav class="pagination">
 {% if paginator.previous_page %}
-    <a style="font-size:small" href="{{ paginator.previous_page_path }}" >Eldre nyheter</a>
+    <a href="{{ paginator.previous_page_path }}" >Eldre nyheter</a>
 {% endif %}
 
 {% if paginator.previous_page and paginator.next_page %}
@@ -35,7 +35,7 @@ layout: default
 {% endif %}
 
 {% if paginator.next_page %}
-    <a style="font-size:small" href="{{ paginator.next_page_path }}">Eldre nyheter</a>
+    <a href="{{ paginator.next_page_path }}">Eldre nyheter</a>
 {% endif %}
-  </center>
+  </nav>
 </div>
