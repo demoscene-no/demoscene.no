@@ -51,7 +51,7 @@ body {
   color: white;
   text-align: center;
   white-space: nowrap;
-  font-size: x-small;
+  font-size: 0.6rem;
 }
 
 .sortbelte a {
@@ -61,7 +61,7 @@ body {
 #lenker {
   padding: 5px 10px;
   border-bottom: 1px solid black;
-  font-size: x-small;
+  font-size: 0.6rem;
 }
 
 .tekstfelt {
@@ -69,7 +69,7 @@ body {
 }
 
 .kommentarlinje {
-  font-size: x-small;
+  font-size: 0.6rem;
   margin-top: 0px;
   font-style: italic;
 }
@@ -81,18 +81,18 @@ body {
 
 .overskrift {
   font-weight: bold;
-  font-size: medium;
+  font-size: 1rem;
 }
 
 .info {
   font-style: italic;
-  font-size: x-small;
+  font-size: 0.6rem;
 }
 
 .fotnote {
   text-align: center;
   clear: right;
-  font-size: x-small;
+  font-size: 0.6rem;
 }
 
 a {
