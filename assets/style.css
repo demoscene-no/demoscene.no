@@ -59,24 +59,10 @@ body {
   color: white;
 }
 
-.bruker,
 #lenker {
   padding: 5px 10px;
   border-bottom: 1px solid black;
   font-size: x-small;
-}
-
-.meny {
-  width: 200px;
-  float: right;
-  border-left: 1px solid black;
-  font-size: x-small;
-}
-
-.grensesnitt {
-  border-bottom: 1px solid black;
-  padding: 5px 10px;
-  font-size: 0.9em;
 }
 
 .tekstfelt {
@@ -117,12 +103,4 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-input {
-  background: white;
-  color: black;
-  font-size: xx-small;
-  border: 1px solid black;
-  height: 16px;
 }
