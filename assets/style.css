@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: verdana, sans-serif;
   font-size: 16px;
 }
 
@@ -29,7 +30,6 @@ img {
 body {
   background: silver;
   color: black;
-  font-family: verdana, sans-serif;
 }
 
 #tagline,
