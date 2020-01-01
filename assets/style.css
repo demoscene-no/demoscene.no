@@ -40,7 +40,7 @@ body {
 
 .main {
   width: auto;
-  margin: 10px 10%;
+  margin: 1rem 10%;
   background: white;
   border: 1px solid black;
 }
@@ -58,18 +58,18 @@ body {
 }
 
 #lenker {
-  padding: 5px 10px;
+  padding: 0.5rem 1rem;
   border-bottom: 1px solid black;
   font-size: 1rem;
 }
 
 .tekstfelt {
-  padding: 5px 10px;
+  padding: 0.5rem 1rem;
 }
 
 .kommentarlinje {
   font-size: 0.75rem;
-  margin-top: 0px;
+  margin-top: 0;
   font-style: italic;
 }
 
