@@ -12,7 +12,7 @@
     <div id="tagline">New and "improved" source code!</div>
     <div class="main">
       <a href="{% link index.html %}">
-        <img id="logo" src="http://demoscene.no/logos/default.jpg" width="320" height="164">
+        <img id="logo" src="{% link logos/default.jpg %}" width="320" height="164">
       </a>
       <nav class="sortbelte">
         <a href="{% link index.html %}">nyheter</a> -
@@ -41,7 +41,7 @@
 
     <div id="rss">
       <a href="{{ 'feed.xml' | relative_url }}">
-        <img src="http://demoscene.no/gfx/valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed">
+        <img src="{% link gfx/valid-rss.png %}" alt="[Valid RSS]" title="Validate my RSS feed">
       </a>
     </div>
   </body>
