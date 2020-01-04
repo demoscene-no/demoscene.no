@@ -13,6 +13,11 @@
     <div class="main">
       <a href="{% link index.html %}">
         <img id="logo" src="{% link logos/default.jpg %}" width="320" height="164">
+        <script>
+          var images = {{ site.static_files | where: "logo", true | map: "path" | jsonify }};
+          var image = images[Math.floor(Math.random() * images.length)];
+          document.getElementById("logo").src = image;
+        </script>
       </a>
       <nav class="sortbelte">
         <a href="{% link index.html %}">nyheter</a> -

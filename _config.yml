@@ -14,3 +14,9 @@ paginate: 10
 collections:
   articles:
     output: true
+
+defaults:
+  - scope:
+      path: "logos"
+    values:
+      logo: true
