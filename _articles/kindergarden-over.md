@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "Kindergarden Over"
-date:   2001-11-13 12:00:00
-author: silmaril
+layout:   article
+title:    "Kindergarden Over"
+category: Partyreport
+date:     2001-11-13 12:00:00
+author:   silmaril
 ---
 Da var [Kindergarden](http://kg.slengpung.com) slutt, og jeg
 er tilbake etter et ganske bra party. PC-compoen var ikke spesiellt bra,

@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "Leaving Las Party"
-date:   2001-12-29 04:51:24
-author: gloom
+layout:   article
+title:    "Leaving Las Party"
+category: Partyreport
+date:     2001-12-29 04:51:24
+author:   gloom
 ---
 ..for fy POKKER så jævla varmt det er i denne hallen! 2 kiser har
 allerede svima av pga. varmen, and more are expected to drop. :)\

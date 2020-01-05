@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "Catmull-Rom splines"
-date:   2001-11-21 22:00:00
-author: Sesse
+layout:   article
+title:    "Catmull-Rom splines"
+category: Matte
+date:     2001-11-21 22:00:00
+author:   Sesse
 ---
 Catmull-Rom splines
 ===================

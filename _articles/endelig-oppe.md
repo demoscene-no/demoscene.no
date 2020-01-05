@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "Endelig Oppe"
-date:   2001-11-07 13:00:00
-author: silmaril
+layout:   article
+title:    "Endelig Oppe"
+category: Diverse
+date:     2001-11-07 13:00:00
+author:   silmaril
 ---
 Da var vi endelig i gang her. Det har tatt litt tid, men bedre sent enn
 aldri;) Som du ser, er siden veldig tom for øyeblikket. Dette må gjøres

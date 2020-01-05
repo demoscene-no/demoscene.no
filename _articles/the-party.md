@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "The Party!"
-date:   2001-12-28 02:48:51
-author: silmaril
+layout:   article
+title:    "The Party!"
+category: Partyreport
+date:     2001-12-28 02:48:51
+author:   silmaril
 ---
 Da var den første natten på The Party 2001 godt i gang og vi er på plass
 der det skjer.\

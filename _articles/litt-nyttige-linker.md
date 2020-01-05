@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "Litt Nyttige Linker"
-date:   2001-11-27 12:00:00
-author: silmaril
+layout:   article
+title:    "Litt Nyttige Linker"
+category: Diverse
+date:     2001-11-27 12:00:00
+author:   silmaril
 ---
 I en periode som for min del preges av en salig blanding av Kant,
 transistorer, integralregning og annet snacks, passet det bra å skrive

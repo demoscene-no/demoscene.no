@@ -1,8 +1,9 @@
 ---
-layout: article
-title:  "Velkommen"
-date:   2001-11-07 12:00:00
-author: gloom
+layout:   article
+title:    "Velkommen"
+category: Diverse
+date:     2001-11-07 12:00:00
+author:   gloom
 ---
 Velkommen til demoscene.no! Du kan like så godt bookmarke siden med en
 gang, iallefall hvis du er interessert i demoer, og enten er eller vil
