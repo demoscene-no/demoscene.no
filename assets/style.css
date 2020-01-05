@@ -40,10 +40,19 @@ body {
 
 .main {
   width: auto;
-  margin: 1rem 10%;
+  margin: 1rem 0;
   background: white;
-  border: 1px solid #999;
-  border-radius: 5px;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+}
+
+@media (min-width: 60rem) {
+  .main {
+     width: auto;
+     margin: 1rem 10%;
+     border: 1px solid #999;
+     border-radius: 5px;
+  }
 }
 
 .sortbelte {
