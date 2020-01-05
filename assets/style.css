@@ -76,12 +76,12 @@ body {
   padding: 0.5rem 1rem;
 }
 
-.news-item h2 {
+h2 {
   font-weight: bold;
   font-size: 1.2rem;
 }
 
-.news-item .info {
+.info {
   font-style: italic;
   font-size: 0.75rem;
 }

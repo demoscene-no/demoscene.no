@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign categories = site.articles | group_by: "category" | sort: "name" %}
+{% for category in categories %}
+  <h2>{{ category.name }}</h2>
+  {% for article in category.items %}
+  <div style="margin-bottom: 1em; margin-left: 1em;">
+    <a href="{{ article.url }}">{{ article.title }}</a>
+    <div class="info">skrevet av {{ article.author }}</div>
+  </div>
+  {%endfor%}
+{% endfor %}
