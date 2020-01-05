@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign categories = site.data.links | group_by: "category" | sort: "name" %}
+{% for category in categories %}
+  <h2>{{ category.name }}</h2>
+  {% for link in category.items %}
+  <div style="margin-bottom: 2em; margin-left: 1em;">
+    <h3 style="margin-bottom: 0"><a href="{{ link.url }}">{{ link.name }}</a></h3>
+    <div>{{ link.description }}</div>
+  </div>
+  {%endfor%}
+{% endfor %}
