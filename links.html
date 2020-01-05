@@ -7,8 +7,8 @@ layout: default
   <h2>{{ category.name }}</h2>
   {% for link in category.items %}
   <div style="margin-bottom: 2em; margin-left: 1em;">
-    <h3 style="margin-bottom: 0"><a href="{{ link.url }}">{{ link.name }}</a></h3>
-    <div>{{ link.description }}</div>
+    <a href="{{ link.url }}">{{ link.name }}</a>
+    <div>{{ link.description | default: "Beskrivelse mangler"}}</div>
   </div>
   {%endfor%}
 {% endfor %}
