@@ -19,8 +19,8 @@ Denne artikkelen kommer til å gi en kort innføring i den typen splines
 som er kjent som Catmull-Rom-splines. De er relativt raske å beregne, og
 er enkle nok matematisk til at selv de mindre erfarne av oss kan følge
 med. (Skal du lage demoer, vil du dog aldri komme rundt at du trenger
-litt matte -- jeg vil anta mattekunnskaper omtrent på linje med fullført
-1. gym på videregående, men mer er alltid en fordel :-) )
+litt matte -- jeg vil anta mattekunnskaper omtrent på linje med fullført 1.
+gym på videregående, men mer er alltid en fordel :-) )
 
 Grunnprinsipper
 ---------------
@@ -67,10 +67,11 @@ x<sub>2</sub> for x:
 
 I tillegg ønsker vi som sagt også å spesifisere den deriverte (som
 uttrykker stigningstallet, eller hvor fort en kurve stiger eller synker
-i et gitt punkt) i begge punktene. Deriverer vi funksjonen ax<sup>3</sup> + bx<sup>2</sup>
-+ cx + d får vi funksjonen 3ax<sup>2</sup> + 2bx + c, og vi har dermed disse to
-ligningene i tillegg til de to ovenfor (de mindre matematisk kyndige kan
-legge merke til at f'(x) betyr den deriverte av f(x) i punktet x):
+i et gitt punkt) i begge punktene. Deriverer vi funksjonen ax<sup>3</sup> +
+bx<sup>2</sup> + cx + d får vi funksjonen 3ax<sup>2</sup> + 2bx + c, og vi
+har dermed disse to ligningene i tillegg til de to ovenfor (de mindre
+matematisk kyndige kan legge merke til at f'(x) betyr den deriverte av f(x)
+i punktet x):
 
 3.  3ax<sub>1</sub><sup>2</sup> + 2bx<sub>1</sub> + c = f'(x<sub>1</sub>)
 4.  3ax<sub>2</sub><sup>2</sup> + 2bx<sub>2</sub> + c = f'(x<sub>2</sub>)
@@ -204,8 +205,7 @@ deriverte.*
 En enkel figur skulle forklare dette litt bedre:
 
 ![Figur som viser tangenten til en spline-funksjon i krysningspunktet
-mellom to subsplines](/img/articles/kode/splineexample.png){width="544"
-height="388"}
+mellom to subsplines]({% link assets/articles/kode/splineexample.png %})
 
 Her har vi tre punkter, og dermed to segmenter (markert med rød og grønn
 farge). Den øverste blå linjen markerer tangenten (husk at

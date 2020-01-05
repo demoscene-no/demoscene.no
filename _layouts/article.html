@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<div class="info">skrevet av {{ page.author }}</div>
-<div class="info">kategori: {{ page.category }}</div>
+<article>
+  <h2>{{ page.title }}</h2>
+  <div class="info">skrevet av {{ page.author }}</div>
+  <div class="info">kategori: {{ page.category }}</div>
 
-<p style="margin: 1em 0">
-{{ content }}
-</p>
+  <p>
+  {{ content }}
+  </p>
+</article>
