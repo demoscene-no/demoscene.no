@@ -1,41 +1,37 @@
 ---
 layout: default
 ---
-
-<div class="tekstfelt">
-
-  <ul class="home">
+<ul class="home">
 {% for post in paginator.posts %}
-    <li class="news-item">
-      <h2>
+  <li class="news-item">
+    <h2>
   {% if post.external_link %}
-        <a href="{{ post.external_link }}" target="_blank">{{ post.title }}</a>
+      <a href="{{ post.external_link }}" target="_blank">{{ post.title }}</a>
   {% else %}
-        {{ post.title }}
+      {{ post.title }}
   {% endif %}
-      </h2>
-      <div class="info">
-        lagt til av {{ post.author | escape }} den {{ post.date | date: "%d/%m-%Y"}}
-      </div>
-      <article>
+    </h2>
+    <div class="info">
+      lagt til av {{ post.author | escape }} den {{ post.date | date: "%d/%m-%Y"}}
+    </div>
+    <article>
         {{ post.content }}
-      </article>
-    </li>
+    </article>
+  </li>
 {% endfor %}
-  </ul>
+</ul>
 
-  <!-- Pagination links -->
-  <nav class="pagination">
+<!-- Pagination links -->
+<nav class="pagination">
 {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" >Eldre nyheter</a>
+  <a href="{{ paginator.previous_page_path }}" >Eldre nyheter</a>
 {% endif %}
 
 {% if paginator.previous_page and paginator.next_page %}
-    -
+  -
 {% endif %}
 
 {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Eldre nyheter</a>
+  <a href="{{ paginator.next_page_path }}">Eldre nyheter</a>
 {% endif %}
-  </nav>
-</div>
+</nav>
