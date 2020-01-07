@@ -15,8 +15,11 @@ layout: default
       lagt til av {{ post.author | escape }} den {{ post.date | date: "%d/%m-%Y"}}
     </div>
     <article>
-        {{ post.content }}
+      {{ post.excerpt }}
     </article>
+    <p>
+      <a href="{{ post.url }}">Les mer</a>
+    </p>
   </li>
 {% endfor %}
 </ul>
