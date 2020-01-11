@@ -12,7 +12,7 @@
     <div id="tagline">New and "improved" source code!</div>
     <div class="main">
       <a href="{% link index.html %}">
-        <img id="logo" src="{% link logos/default.jpg %}" width="320" height="164">
+        <img id="logo" src="{% link logos/default.jpg %}" alt="demoscene.no" width="320" height="164">
         <script>
           var images = {{ site.static_files | where: "logo", true | map: "path" | jsonify }};
           var image = images[Math.floor(Math.random() * images.length)];
