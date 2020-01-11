@@ -12,7 +12,7 @@ layout: default
   {% endif %}
     </h2>
     <div class="info">
-      lagt til av {{ post.author | escape }} den {{ post.date | date: "%d/%m-%Y"}}
+      lagt til av {{ post.author | escape }} den <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d/%m-%Y"}}</time>
     </div>
     <article>
       {{ post.excerpt }}
