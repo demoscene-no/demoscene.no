@@ -68,6 +68,23 @@ body {
   font-size: 1rem;
 }
 
+.sortbelte ul,
+#lenker ul {
+  display: inline;
+  list-style: none;
+  padding: 0;
+}
+
+.sortbelte li,
+#lenker li {
+  display: inline;
+}
+
+.sortbelte li:not(:last-child)::after,
+#lenker li:not(:last-child)::after {
+    content: " - ";
+}
+
 .sortbelte a {
   color: #ddd;
 }
