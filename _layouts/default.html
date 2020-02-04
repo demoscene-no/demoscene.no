@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="{% link assets/style.css %}">
+    <link type="application/atom+xml" rel="alternate" href="{{ 'feed.xml' | relative_url }}" title="demoscene.no news">
   </head>
   <body>
     <div id="tagline">New and "improved" source code!</div>
@@ -45,10 +46,6 @@
 
     <footer>
       <p><a href="https://github.com/demoscene-no/demoscene-no.github.io/blob/master/{{page.path}}">Foreslå endringer for denne siden</a></p>
-
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <img src="{% link gfx/valid-rss.png %}" alt="[Valid RSS]" title="Validate my RSS feed">
-      </a>
     </footer>
 
   </body>
