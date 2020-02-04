@@ -23,10 +23,10 @@ defaults:
 
 links:
   - title: pouet
-    url: http://www.pouet.net
+    url: https://www.pouet.net/
   - title: scene.org
-    url: http://www.scene.org
+    url: https://www.scene.org/
   - title: quotes
-    url: http://quotes.demoscene.no
+    url: https://quotes.demoscene.no/
   - title: slengpung
     url: http://www.slengpung.com
