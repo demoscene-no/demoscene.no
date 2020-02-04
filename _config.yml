@@ -16,7 +16,7 @@ collections:
 
 defaults:
   - scope:
-      path: "logos"
+      path: "assets/logos"
     values:
       logo: true
 
