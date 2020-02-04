@@ -5,9 +5,6 @@ category: Matte
 date:     2001-11-21 22:00:00
 author:   Sesse
 ---
-Catmull-Rom splines
-===================
-
 Det å lage en rett (lineær) kurve er ikke spesielt vanskelig, men det er
 ikke alltid at man ønsker en slik rett overgang. Spesielt naturlig
 bevegelse vil neppe ha den typen "hakk" som man får når man bytter
