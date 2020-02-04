@@ -43,7 +43,7 @@ body {
   text-align: center;
 }
 
-.main {
+.container {
   width: auto;
   margin: 1rem 0;
   background: white;
@@ -52,7 +52,7 @@ body {
 }
 
 @media (min-width: 60rem) {
-  .main {
+  .container {
      width: auto;
      margin: 1rem 10%;
      border: 1px solid #999;
