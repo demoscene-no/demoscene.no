@@ -22,8 +22,11 @@
       <nav id="pages">
         <ul>
           <li><a href="{% link index.html %}">nyheter</a></li>
-          <li><a href="{% link articles.html %}">artikler</a></li>
-          <li><a href="{% link links.html %}">linker</a></li>
+          {% for page in site.pages %}
+            {% if page.title %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
         </ul>
       </nav>
 
