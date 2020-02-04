@@ -41,16 +41,15 @@
       <div class="tekstfelt">
         {{ content }}
       </div>
-
-      <footer>
-        Please submit a GitHub pull-request to the <a href="https://github.com/demoscene-no/demoscene-no.github.io">repository</a> if you want something changed.
-      </footer>
     </div>
 
-    <div id="rss">
+    <footer>
+      <p>Please submit a GitHub pull-request to the <a href="https://github.com/demoscene-no/demoscene-no.github.io">repository</a> if you want something changed.</p>
+
       <a href="{{ 'feed.xml' | relative_url }}">
         <img src="{% link gfx/valid-rss.png %}" alt="[Valid RSS]" title="Validate my RSS feed">
       </a>
-    </div>
+    </footer>
+
   </body>
 </html>
