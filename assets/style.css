@@ -39,7 +39,9 @@ body {
 }
 
 #tagline,
-#links {
+#links,
+nav.pagination,
+footer {
   text-align: center;
 }
 
@@ -109,10 +111,6 @@ h2 {
   margin: auto 0;
 }
 
-footer {
-  text-align: center;
-}
-
 a {
   color: red;
   text-decoration: none;
@@ -126,8 +124,4 @@ a:hover {
   padding-bottom: 1em;
   margin-bottom: 1em;
   border-bottom: 1px solid #ddd;
-}
-
-nav.pagination {
-  text-align: center;
 }
