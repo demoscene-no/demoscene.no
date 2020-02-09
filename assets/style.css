@@ -45,9 +45,14 @@ footer {
   text-align: center;
 }
 
+#tagline,
+footer a {
+  color: #888;
+}
+
 .container {
   width: auto;
-  margin: 1rem 0;
+  margin: 0;
   background: white;
   border-top: 1px solid #999;
   border-bottom: 1px solid #999;
@@ -56,7 +61,7 @@ footer {
 @media (min-width: 60rem) {
   .container {
      width: auto;
-     margin: 1rem 10%;
+     margin: 0 10%;
      border: 1px solid #999;
      border-radius: 5px;
   }
