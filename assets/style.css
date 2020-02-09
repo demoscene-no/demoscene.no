@@ -64,7 +64,6 @@ body {
   background: #444;
   color: #ddd;
   text-align: center;
-  font-size: 1rem;
 }
 
 #pages ul,
@@ -91,7 +90,6 @@ body {
 #links {
   padding: 0.5rem 1rem;
   border-bottom: 1px solid #ddd;
-  font-size: 1rem;
 }
 
 main {
@@ -109,7 +107,6 @@ h2 {
 
 .news-item article {
   margin: auto 0;
-  font-size: 1rem;
 }
 
 footer {
