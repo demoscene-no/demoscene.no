@@ -104,7 +104,8 @@ h2 {
 
 .info {
   font-style: italic;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
+  color: #999;
 }
 
 .news-item article {
