@@ -12,17 +12,17 @@ til randen av kult stash, slikt som: et komplett arkiv over norske
 scene-releaser, tutorials og guider til deg som vil starte med å lage
 egne demoer (skrevet av kjente og kjære norske scenere), et messageboard
 der norske sceners kan diskutere og snakke tull, en stor link-oversikt
-over den norske scenen og selvfølgelig freshe nyheter!\
-\
+over den norske scenen og selvfølgelig freshe nyheter!
+
 Vi følte at vi måtte gjøre noe spesiellt i forbindelse med åpningen av
 siden og starter derfor liksågodt med å dekke Kindergarden'01, norges
 feteste scene-event! Vi kommer til å gi deg ferske nyheter og
 selvfølgelig releasene og en meget leet party-rapport når monitorene
-slås av.\
-\
+slås av.
+
 Fikk du lyst til å komme..? :) Kein problem! Stikk til
 [kg.slengpung.com](http://kg.slengpung.com) - the fun begins
-this friday.\
-\
-Regards,\
+this friday.
+
+Regards,  
 silmaril / kvasigen & gloom / excess

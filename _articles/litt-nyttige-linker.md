@@ -62,7 +62,7 @@ selvølgelig \#scene.no på EFnet en uvurderelig ressurs, og et godt sted
 å idle. (I retferdighetens navn, kan jo \#daskmig også taes med)
 
 Vel, det får være nok unnasluntring fra eksamenslesingen for i dag. Når
-jeg orker, kommer disse linkene også inn på den generelle linksiden.\
+jeg orker, kommer disse linkene også inn på den generelle linksiden.  
 --sil
 
 btw: For de som lurer på hvorfor det mangler mye og er lite
