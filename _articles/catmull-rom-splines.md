@@ -158,11 +158,10 @@ b = (f'(1) + 6f(1) - 3f'(1) - 3f'(0) - 6f(0) - f'(0)) / 2
 b = (-2f'(1) + 6f(1) - 4f'(0) - 6f(0)) / 2  
 b = -f'(1) + 3f(1) - 2f'(0) - 3f(0)
 
-<p id="ferdig">
 Nå har vi alle verdiene vi trenger for formelen vår. Vi setter inn og
 får den ferdige funksjonen for splinen vår (jeg har fargelagt de
 enkelte konstantene for å gjøre funksjonen lettere å lese/forstå):
-</p>
+{: #ferdig}
 
 f(x) = *a*t<sup>3</sup> + *b*t<sup>2</sup> + *c*t + *d*  
 f(x) = *(-2f(1) + f'(1) + f'(0) + 2f(0))*t<sup>3</sup> + *(-f'(1) +
