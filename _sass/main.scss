@@ -4,7 +4,9 @@ html {
   font-size: 16px;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -12,16 +14,12 @@ body {
   margin: 0;
   padding: 0;
   font-weight: normal;
+  background: #ddd;
+  color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
-}
-
-ul#news {
-  margin: 0;
-  padding: 0;
-  list-style: none;
 }
 
 img {
@@ -29,13 +27,25 @@ img {
   height: auto;
 }
 
-#logo {
-  display: block;
+main {
+  padding: 0.5rem 1rem;
 }
 
-body {
-  background: #ddd;
-  color: black;
+h2 {
+  font-size: 1.2rem;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#logo {
+  display: block;
 }
 
 #tagline,
@@ -72,40 +82,35 @@ footer a {
   background: #444;
   color: #ddd;
   text-align: center;
+
+  a {
+    color: #ddd;
+  }
+}
+
+#pages ul,
+#links ul,
+ul#news {
+  padding: 0;
+  list-style: none;
 }
 
 #pages ul,
 #links ul {
   display: inline;
-  list-style: none;
-  padding: 0;
-}
 
-#pages li,
-#links li {
-  display: inline;
-}
-
-#pages li:not(:last-child)::after,
-#links li:not(:last-child)::after {
+  li {
+    display: inline;
+  }
+  li:not(:last-child)::after,
+  li:not(:last-child)::after {
     content: " - ";
-}
-
-#pages a {
-  color: #ddd;
+  }
 }
 
 #links {
   padding: 0.5rem 1rem;
   border-bottom: 1px solid #ddd;
-}
-
-main {
-  padding: 0.5rem 1rem;
-}
-
-h2 {
-  font-size: 1.2rem;
 }
 
 .info {
@@ -114,21 +119,12 @@ h2 {
   color: #999;
 }
 
-.news-item article {
-  margin: auto 0;
-}
-
-a {
-  color: red;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 .news-item {
   padding-bottom: 1em;
   margin-bottom: 1em;
   border-bottom: 1px solid #ddd;
+
+  article {
+    margin: auto 0;
+  }
 }
