@@ -34,7 +34,7 @@ med linker](http://www.ojuice.net/www/mags/links.htm) til de
 fleste som utgis om dagen. Dette bringer oss inn på noe annet som jeg
 bruker mye tid på: scenesurfing. Det finnes en del steder som har
 bringer daglige oppdateringer om hva som skjer i scenen. På [siden vår
-med linker](/links.php) finner du noen av dem. På noen av
+med linker]({% link links.html %}) finner du noen av dem. På noen av
 disse sidene har du også mulighet til å hente ned og se det meste av det
 som finnes av utgivelser de siste årene. En annen aktivitet som ikke kan
 bedrives for mye:) I tillegg til at det er utrolig gøy å se hva andre
