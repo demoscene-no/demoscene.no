@@ -26,15 +26,14 @@ inneholder veldig mye av det vi håper å gjøre her, bare på svensk.
 Når det gjelder selve kodingen så finnes det veldig mye ressurser som er
 lure å ta med seg. Det er fryktelig mange som har gjort og skrevet mye
 smart tidligere, og det er ingen dum idè å ta med seg noen triks der man
-kan. Diskmags er en fin kilde her. Spesielt
-[hugi](http://www.hugi.de/) har mye gode artikler om
-optimalisering, spesifikke effekter, matte, o.l. Flere diskmags finner
-du hos[Ojuice](http://ojuice.net), som har en fin [seksjon
-med linker](http://www.ojuice.net/www/mags/links.htm) til de
+kan. Diskmags er en fin kilde her. Spesielt [hugi](http://www.hugi.de/)
+har mye gode artikler om optimalisering, spesifikke effekter, matte, o.l.
+Flere diskmags finner du hos [Ojuice](http://ojuice.net), som har en fin
+[seksjon med linker](http://www.ojuice.net/www/mags/links.htm) til de
 fleste som utgis om dagen. Dette bringer oss inn på noe annet som jeg
 bruker mye tid på: scenesurfing. Det finnes en del steder som har
 bringer daglige oppdateringer om hva som skjer i scenen. På [siden vår
-med linker](/links.php) finner du noen av dem. På noen av
+med linker]({% link links.html %}) finner du noen av dem. På noen av
 disse sidene har du også mulighet til å hente ned og se det meste av det
 som finnes av utgivelser de siste årene. En annen aktivitet som ikke kan
 bedrives for mye:) I tillegg til at det er utrolig gøy å se hva andre
