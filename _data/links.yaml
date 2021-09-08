@@ -1,69 +1,76 @@
 - category: Partylinker
-  description: "Et av de f\xE5 norske scenepartyene som fortsatt holder det g\xE5\
-    ende"
+  description: Et av de få norske scenepartyene som fortsatt holder det gående
   name: Kindergarden
   url: http://kg.slengpung.com
 - category: Partylinker
-  description: "Det st\xF8rste norske partyet, men med mindre scenefokus enn tidligere.\
-    \ P\xE5 tg02 tok ting seg opp, s\xE5 ting kan bli bra i \xE5rene fremover..."
+  description: >
+    Det største norske partyet, men med mindre scenefokus enn tidligere.
+    På tg02 tok ting seg opp, så ting kan bli bra i årene fremover...
   name: The Gathering
   url: http://www.gathering.org
 - category: Nyheter og filer
-  description: "Det st\xF8rste arkivet over utgivelser som finnes p\xE5 nettet"
+  description: Det største arkivet over utgivelser som finnes på nettet
   name: scene.org
   url: http://www.scene.org
 - category: Nyheter og filer
-  description: "Stor side med nyheter, forum og en enorm database over utgivelser\
-    \ med muligheter for \xE5 legge inn kommentarer"
-  name: "pou\xEBt.net"
+  description: >
+    Stor side med nyheter, forum og en enorm database over utgivelser
+    med muligheter for å legge inn kommentarer
+  name: pouët.net
   url: http://www.pouet.net
 - category: Diverse demoscene
   description: Stort bildearkiv over scenere
   name: Slengpung
   url: http://www.slengpung.com
 - category: Annet
-  description: "Amiganyheter p\xE5 norsk"
+  description: Amiganyheter på norsk
   name: polarBoing
   url: http://polarboing.com/
 - category: Demogrupper
-  description: "Nakenbilder av Concrete kan skaffes p\xE5 request."
+  description: Nakenbilder av Concrete kan skaffes på request.
   name: Contraz
   url: http://www.contraz.no
 - category: Demogrupper
   name: PornoGen
   url: http://www.pornogen.com
 - category: Diverse demoscene
-  description: "Shoutcast-radio som utelukkende spiller scenerelatert musikk. Sceneradio\
-    \ nummer \xE9n!"
+  description: >
+    Shoutcast-radio som utelukkende spiller scenerelatert musikk. Sceneradio
+    nummer én!
   name: Nectarine
   url: http://www.scenemusic.net/
 - category: Demogrupper
-  description: "du har lyst til \xE5 klikke, ikke sant? ikke stritt imot .. vi vet\
-    \ begge at du kommer til \xE5 klikke p\xE5 den linken der. s\xE5 gj\xF8r det."
+  description: >
+    du har lyst til å klikke, ikke sant? ikke stritt imot .. vi vet
+    begge at du kommer til å klikke på den linken der. så gjør det.
   name: kvasigen
   url: http://kvasigen.demoscene.no
 - category: Nyheter og filer
-  description: Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
+  description: >
+    Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
     Oppdateres sjelden.
   name: Amigascne.org
   url: http://www.amigascne.org/
 - category: Partylinker
-  description: "Sommerens store happening i den norske scenen. Det finnes ingen unnskyldning\
-    \ for ikke \xE5 komme:)"
+  description: >
+    Sommerens store happening i den norske scenen. Det finnes ingen unnskyldning
+    for ikke å komme:)
   name: Solskogen
   url: http://solskogen.demoscene.no
 - category: Diverse demoscene
   name: Demoscene dot tv
   url: http://www.demoscene.tv/
 - category: Partylinker
-  description: "Arvtakeren etter mekka og verdens st\xF8rste scene-only-party. Passer\
-    \ f.eks for de som ikke \xF8nsker \xE5 bruke p\xE5sken i Hamar."
+  description: >
+    Arvtakeren etter mekka og verdens største scene-only-party. Passer
+    f.eks for de som ikke ønsker å bruke påsken i Hamar.
   name: Breakpoint
   url: http://breakpoint.untergrund.net/
 - category: Demogrupper
-  description: "Outracks er en ung gruppe som debuterte i 2002 og\ner f\xF8dt og oppvokst\
-    \ p\xE5 Norvegia. De er ogs\xE5\nhost-gruppe for DigiLab. Har i den senere tid\n\
-    hevdet seg bra b\xE5de i Demo og Beer :P. Medlemmer:\nXargoon, tesepe, Duckers,\
-    \ Nukleon, Irvin, zyrthex,\ndaxxar, vlab"
+  description: >
+    Outracks er en ung gruppe som debuterte i 2002 og er født og oppvokst
+    på Norvegia. De er også host-gruppe for DigiLab. Har i den senere tid
+    hevdet seg bra både i Demo og Beer :P. Medlemmer: Xargoon, tesepe, Duckers,
+    Nukleon, Irvin, zyrthex, daxxar, vlab
   name: Outracks
   url: http://www.pouet.net/groups.php?which=2323
