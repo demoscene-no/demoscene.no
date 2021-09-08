@@ -22,29 +22,10 @@
   description: Stort bildearkiv over scenere
   name: Slengpung
   url: http://www.slengpung.com
-- category: Annet
-  description: Amiganyheter på norsk
-  name: polarBoing
-  url: http://polarboing.com/
 - category: Demogrupper
   description: Nakenbilder av Concrete kan skaffes på request.
   name: Contraz
   url: http://www.contraz.no
-- category: Demogrupper
-  name: PornoGen
-  url: http://www.pornogen.com
-- category: Diverse demoscene
-  description: >
-    Shoutcast-radio som utelukkende spiller scenerelatert musikk. Sceneradio
-    nummer én!
-  name: Nectarine
-  url: http://www.scenemusic.net/
-- category: Demogrupper
-  description: >
-    du har lyst til å klikke, ikke sant? ikke stritt imot .. vi vet
-    begge at du kommer til å klikke på den linken der. så gjør det.
-  name: kvasigen
-  url: http://kvasigen.demoscene.no
 - category: Nyheter og filer
   description: >
     Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
@@ -57,9 +38,6 @@
     for ikke å komme:)
   name: Solskogen
   url: http://solskogen.demoscene.no
-- category: Diverse demoscene
-  name: Demoscene dot tv
-  url: http://www.demoscene.tv/
 - category: Partylinker
   description: >
     Arvtakeren etter mekka og verdens største scene-only-party. Passer
