@@ -1,54 +1,52 @@
-- category: Partylinker
-  description: Et av de få norske scenepartyene som fortsatt holder det gående
-  name: Kindergarden
-  url: http://kg.slengpung.com
-- category: Partylinker
-  description: >
-    Det største norske partyet, men med mindre scenefokus enn tidligere.
-    På tg02 tok ting seg opp, så ting kan bli bra i årene fremover...
-  name: The Gathering
-  url: http://www.gathering.org
-- category: Nyheter og filer
-  description: Det største arkivet over utgivelser som finnes på nettet
-  name: scene.org
-  url: http://www.scene.org
-- category: Nyheter og filer
-  description: >
-    Stor side med nyheter, forum og en enorm database over utgivelser
-    med muligheter for å legge inn kommentarer
-  name: pouët.net
-  url: http://www.pouet.net
-- category: Diverse demoscene
-  description: Stort bildearkiv over scenere
-  name: Slengpung
-  url: http://www.slengpung.com
-- category: Demogrupper
-  description: Nakenbilder av Concrete kan skaffes på request.
-  name: Contraz
-  url: http://www.contraz.no
-- category: Nyheter og filer
-  description: >
-    Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
-    Oppdateres sjelden.
-  name: Amigascne.org
-  url: http://www.amigascne.org/
-- category: Partylinker
-  description: >
-    Sommerens store happening i den norske scenen. Det finnes ingen unnskyldning
-    for ikke å komme:)
-  name: Solskogen
-  url: http://solskogen.demoscene.no
-- category: Partylinker
-  description: >
-    Arvtakeren etter mekka og verdens største scene-only-party. Passer
-    f.eks for de som ikke ønsker å bruke påsken i Hamar.
-  name: Breakpoint
-  url: http://breakpoint.untergrund.net/
-- category: Demogrupper
-  description: >
-    Outracks er en ung gruppe som debuterte i 2002 og er født og oppvokst
-    på Norvegia. De er også host-gruppe for DigiLab. Har i den senere tid
-    hevdet seg bra både i Demo og Beer :P. Medlemmer: Xargoon, tesepe, Duckers,
-    Nukleon, Irvin, zyrthex, daxxar, vlab
-  name: Outracks
-  url: http://www.pouet.net/groups.php?which=2323
+- name: Partylinker
+  links:
+  - name: Kindergarden
+    description: Et av de få norske scenepartyene som fortsatt holder det gående
+    url: http://kg.slengpung.com
+  - name: The Gathering
+    description: >
+      Det største norske partyet, men med mindre scenefokus enn tidligere.
+      På tg02 tok ting seg opp, så ting kan bli bra i årene fremover...
+    url: http://www.gathering.org
+  - name: Solskogen
+    description: >
+      Sommerens store happening i den norske scenen. Det finnes ingen unnskyldning
+      for ikke å komme:)
+    url: http://solskogen.demoscene.no
+  - name: Breakpoint
+    description: >
+      Arvtakeren etter mekka og verdens største scene-only-party. Passer
+      f.eks for de som ikke ønsker å bruke påsken i Hamar.
+    url: http://breakpoint.untergrund.net/
+- name: Nyheter og filer
+  links:
+  - name: scene.org
+    description: Det største arkivet over utgivelser som finnes på nettet
+    url: http://www.scene.org
+  - name: pouët.net
+    description: >
+      Stor side med nyheter, forum og en enorm database over utgivelser
+      med muligheter for å legge inn kommentarer
+    url: http://www.pouet.net
+  - name: Amigascne.org
+    description: >
+      Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
+      Oppdateres sjelden.
+    url: http://www.amigascne.org/
+- name: Diverse demoscene
+  links:
+    - name: Slengpung
+      description: Stort bildearkiv over scenere
+      url: http://www.slengpung.com
+- name: Demogrupper
+  links:
+  - name: Contraz
+    description: Nakenbilder av Concrete kan skaffes på request.
+    url: http://www.contraz.no
+  - name: Outracks
+    description: >
+      Outracks er en ung gruppe som debuterte i 2002 og er født og oppvokst
+      på Norvegia. De er også host-gruppe for DigiLab. Har i den senere tid
+      hevdet seg bra både i Demo og Beer :P. Medlemmer: Xargoon, tesepe, Duckers,
+      Nukleon, Irvin, zyrthex, daxxar, vlab
+    url: http://www.pouet.net/groups.php?which=2323
