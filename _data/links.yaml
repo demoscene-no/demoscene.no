@@ -1,23 +1,22 @@
 - name: Demopartyer
   links:
   - name: Kindergarden
-    description: Et av de få norske scenepartyene som fortsatt holder det gående
-    url: http://kg.slengpung.com
+    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
+    url: https://web.archive.org/web/20200218011115/http://kg.slengpung.com/2015/
   - name: The Gathering
-    description: >
-      Det største norske partyet, men med mindre scenefokus enn tidligere.
-      På tg02 tok ting seg opp, så ting kan bli bra i årene fremover...
-    url: http://www.gathering.org
+    description: Story norske dataparty, men med lite scenefokus.
+    url: https://www.gathering.org
   - name: Solskogen
-    description: >
-      Sommerens store happening i den norske scenen. Det finnes ingen unnskyldning
-      for ikke å komme:)
-    url: http://solskogen.demoscene.no
+    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
+    url: https://solskogen.no
   - name: Breakpoint
+    description: Tidligere tysk demoparty. Arrangeres ikke lenger.
+    url: https://breakpoint.untergrund.net/
+  - name: Revision
     description: >
-      Arvtakeren etter mekka og verdens største scene-only-party. Passer
-      f.eks for de som ikke ønsker å bruke påsken i Hamar.
-    url: http://breakpoint.untergrund.net/
+      Det største demopartyet som arrangeres for tiden. Finner sted i Påsken i
+      Saarbrücken i Tyskland.
+    url: https://revision-party.net/
 - name: Demoscene
   links:
   - name: scene.org
