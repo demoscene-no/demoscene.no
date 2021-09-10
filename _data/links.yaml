@@ -1,4 +1,4 @@
-- name: Partylinker
+- name: Demopartyer
   links:
   - name: Kindergarden
     description: Et av de få norske scenepartyene som fortsatt holder det gående
@@ -18,7 +18,7 @@
       Arvtakeren etter mekka og verdens største scene-only-party. Passer
       f.eks for de som ikke ønsker å bruke påsken i Hamar.
     url: http://breakpoint.untergrund.net/
-- name: Nyheter og filer
+- name: Demoscene
   links:
   - name: scene.org
     description: Det største arkivet over utgivelser som finnes på nettet
@@ -33,11 +33,9 @@
       Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
       Oppdateres sjelden.
     url: http://www.amigascne.org/
-- name: Diverse demoscene
-  links:
-    - name: Slengpung
-      description: Stort bildearkiv over scenere
-      url: http://www.slengpung.com
+  - name: Slengpung
+    description: Stort bildearkiv over scenere
+    url: http://www.slengpung.com
 - name: Demogrupper
   links:
   - name: Contraz
