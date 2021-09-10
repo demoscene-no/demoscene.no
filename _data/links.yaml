@@ -24,9 +24,14 @@
     url: http://www.scene.org
   - name: pouët.net
     description: >
-      Stor side med nyheter, forum og en enorm database over utgivelser
-      med muligheter for å legge inn kommentarer
+      Stor database over demoscene produksjoner. Har også nyheter, forum og
+      mulighet til å kommentere produksjoner.
     url: http://www.pouet.net
+  - name: Demozoo
+    url: https://demozoo.org/
+    description: >
+      Stor database over demoscene releases. Dekker en del kategorier som pouët
+      ikke gjør, som grafikk og musikk.
   - name: Amigascne.org
     description: >
       Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
