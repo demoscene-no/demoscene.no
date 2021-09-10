@@ -40,10 +40,8 @@
   - name: Contraz
     description: Nakenbilder av Concrete kan skaffes på request.
     url: http://www.contraz.no
-  - name: Outracks
+  - name: Ninjadev
+    url: https://www.ninjadev.org/
     description: >
-      Outracks er en ung gruppe som debuterte i 2002 og er født og oppvokst
-      på Norvegia. De er også host-gruppe for DigiLab. Har i den senere tid
-      hevdet seg bra både i Demo og Beer :P. Medlemmer: Xargoon, tesepe, Duckers,
-      Nukleon, Irvin, zyrthex, daxxar, vlab
-    url: http://www.pouet.net/groups.php?which=2323
+      Norsk demogruppe basert rundt studentmiljøet på NTNU som lager mange
+      demoer og markerer seg internasjonalt.
