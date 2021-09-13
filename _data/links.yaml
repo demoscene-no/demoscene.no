@@ -1,69 +1,52 @@
-- category: Partylinker
-  description: "Et av de f\xE5 norske scenepartyene som fortsatt holder det g\xE5\
-    ende"
-  name: Kindergarden
-  url: http://kg.slengpung.com
-- category: Partylinker
-  description: "Det st\xF8rste norske partyet, men med mindre scenefokus enn tidligere.\
-    \ P\xE5 tg02 tok ting seg opp, s\xE5 ting kan bli bra i \xE5rene fremover..."
-  name: The Gathering
-  url: http://www.gathering.org
-- category: Nyheter og filer
-  description: "Det st\xF8rste arkivet over utgivelser som finnes p\xE5 nettet"
-  name: scene.org
-  url: http://www.scene.org
-- category: Nyheter og filer
-  description: "Stor side med nyheter, forum og en enorm database over utgivelser\
-    \ med muligheter for \xE5 legge inn kommentarer"
-  name: "pou\xEBt.net"
-  url: http://www.pouet.net
-- category: Diverse demoscene
-  description: Stort bildearkiv over scenere
-  name: Slengpung
-  url: http://www.slengpung.com
-- category: Annet
-  description: "Amiganyheter p\xE5 norsk"
-  name: polarBoing
-  url: http://polarboing.com/
-- category: Demogrupper
-  description: "Nakenbilder av Concrete kan skaffes p\xE5 request."
-  name: Contraz
-  url: http://www.contraz.no
-- category: Demogrupper
-  name: PornoGen
-  url: http://www.pornogen.com
-- category: Diverse demoscene
-  description: "Shoutcast-radio som utelukkende spiller scenerelatert musikk. Sceneradio\
-    \ nummer \xE9n!"
-  name: Nectarine
-  url: http://www.scenemusic.net/
-- category: Demogrupper
-  description: "du har lyst til \xE5 klikke, ikke sant? ikke stritt imot .. vi vet\
-    \ begge at du kommer til \xE5 klikke p\xE5 den linken der. s\xE5 gj\xF8r det."
-  name: kvasigen
-  url: http://kvasigen.demoscene.no
-- category: Nyheter og filer
-  description: Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
-    Oppdateres sjelden.
-  name: Amigascne.org
-  url: http://www.amigascne.org/
-- category: Partylinker
-  description: "Sommerens store happening i den norske scenen. Det finnes ingen unnskyldning\
-    \ for ikke \xE5 komme:)"
-  name: Solskogen
-  url: http://solskogen.demoscene.no
-- category: Diverse demoscene
-  name: Demoscene dot tv
-  url: http://www.demoscene.tv/
-- category: Partylinker
-  description: "Arvtakeren etter mekka og verdens st\xF8rste scene-only-party. Passer\
-    \ f.eks for de som ikke \xF8nsker \xE5 bruke p\xE5sken i Hamar."
-  name: Breakpoint
-  url: http://breakpoint.untergrund.net/
-- category: Demogrupper
-  description: "Outracks er en ung gruppe som debuterte i 2002 og\ner f\xF8dt og oppvokst\
-    \ p\xE5 Norvegia. De er ogs\xE5\nhost-gruppe for DigiLab. Har i den senere tid\n\
-    hevdet seg bra b\xE5de i Demo og Beer :P. Medlemmer:\nXargoon, tesepe, Duckers,\
-    \ Nukleon, Irvin, zyrthex,\ndaxxar, vlab"
-  name: Outracks
-  url: http://www.pouet.net/groups.php?which=2323
+- name: Demopartyer
+  links:
+  - name: Kindergarden
+    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
+    url: https://web.archive.org/web/20200218011115/http://kg.slengpung.com/2015/
+  - name: The Gathering
+    description: Story norske dataparty, men med lite scenefokus.
+    url: https://www.gathering.org
+  - name: Solskogen
+    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
+    url: https://solskogen.no
+  - name: Breakpoint
+    description: Tidligere tysk demoparty. Arrangeres ikke lenger.
+    url: https://breakpoint.untergrund.net/
+  - name: Revision
+    description: >
+      Det største demopartyet som arrangeres for tiden. Finner sted i Påsken i
+      Saarbrücken i Tyskland.
+    url: https://revision-party.net/
+- name: Demoscene
+  links:
+  - name: scene.org
+    description: Det største arkivet over utgivelser som finnes på nettet
+    url: http://www.scene.org
+  - name: pouët.net
+    description: >
+      Stor database over demoscene produksjoner. Har også nyheter, forum og
+      mulighet til å kommentere produksjoner.
+    url: http://www.pouet.net
+  - name: Demozoo
+    url: https://demozoo.org/
+    description: >
+      Stor database over demoscene releases. Dekker en del kategorier som pouët
+      ikke gjør, som grafikk og musikk.
+  - name: Amigascne.org
+    description: >
+      Her kan man finne endel snacks fra Amiga-scenen; bilder, demoer etc.
+      Oppdateres sjelden.
+    url: http://www.amigascne.org/
+  - name: Slengpung
+    description: Stort bildearkiv over scenere
+    url: http://www.slengpung.com
+- name: Demogrupper
+  links:
+  - name: Contraz
+    description: Nakenbilder av Concrete kan skaffes på request.
+    url: http://www.contraz.no
+  - name: Ninjadev
+    url: https://www.ninjadev.org/
+    description: >
+      Norsk demogruppe basert rundt studentmiljøet på NTNU som lager mange
+      demoer og markerer seg internasjonalt.
