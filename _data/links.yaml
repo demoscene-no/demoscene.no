@@ -68,3 +68,8 @@
   - name: In4k
     description: En nettside med informasjon on hvordan man lager 4k introer
     url: https://in4k.github.io/
+- name: Grafikk
+  links:
+  - name: executable.graphics
+    description: Kurert liste av Executable Graphics utgivelser.
+    url: https://executable.graphics/
