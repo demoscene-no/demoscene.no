@@ -63,3 +63,8 @@
       Norsk-Britisk demogruppe som lager noen av de beste 64k introene gitt ut
       de siste årene.
     url: http://logicoma.io/
+- name: Programmering
+  links:
+  - name: In4k
+    description: En nettside med informasjon on hvordan man lager 4k introer
+    url: https://in4k.github.io/
