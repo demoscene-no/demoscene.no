@@ -1,22 +1,30 @@
 - name: Demopartyer
   links:
-  - name: Kindergarden
-    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
-    url: https://web.archive.org/web/20200218011115/http://kg.slengpung.com/2015/
-  - name: The Gathering
-    description: Stort norsk dataparty, men med lite scenefokus.
-    url: https://www.gathering.org
-  - name: Solskogen
-    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
-    url: https://solskogen.no
-  - name: Breakpoint
-    description: Tidligere tysk demoparty. Arrangeres ikke lenger.
-    url: https://breakpoint.untergrund.net/
   - name: Revision
     description: >
       Det største demopartyet som arrangeres for tiden. Finner sted i Påsken i
       Saarbrücken i Tyskland.
     url: https://revision-party.net/
+  - name: Evoke
+    description: >
+      Stort demoparty som ofte har mange Norske deltagere. Finner sted på
+      slutten av sommeren i Køln i Tyskland.
+    url: https://www.evoke.eu/
+  - name: TRSAC
+    description: >
+      Antakeligvis det morsomste demopartiet for tiden, og det er vanligvis
+      mange nordmenn til stede. Har klippekort på øl, samt gratis øl og snapps
+      pause før democompoen. Finner sted på høsten i Århus i Danmark.
+    url: http://trsac.dk
+  - name: Kindergarden
+    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
+    url: https://web.archive.org/web/20200218011115/http://kg.slengpung.com/2015/
+  - name: Solskogen
+    description: Tidligere norsk demoparty. Arrangeres ikke lenger.
+    url: https://solskogen.no
+  - name: The Gathering
+    description: Stort norsk dataparty, men med lite scenefokus.
+    url: https://www.gathering.org
 - name: Demoscene
   links:
   - name: scene.org
@@ -50,3 +58,18 @@
     description: >
       Norsk demogruppe basert rundt studentmiljøet på NTNU som lager mange
       demoer og markerer seg internasjonalt.
+  - name: Logicoma
+    description: >
+      Norsk-Britisk demogruppe som lager noen av de beste 64k introene gitt ut
+      de siste årene.
+    url: http://logicoma.io/
+- name: Programmering
+  links:
+  - name: In4k
+    description: En nettside med informasjon on hvordan man lager 4k introer
+    url: https://in4k.github.io/
+- name: Grafikk
+  links:
+  - name: executable.graphics
+    description: Kurert liste av Executable Graphics utgivelser.
+    url: https://executable.graphics/
