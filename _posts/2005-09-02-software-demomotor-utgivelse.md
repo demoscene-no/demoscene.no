@@ -3,7 +3,7 @@ layout: post
 title:  "Software demomotor utgivelse"
 date:   2005-09-02 12:11:32
 author: activator
-external_link: http://www.demoscene.no/files/dihydrogenmonoxide_src.zip
+external_link: /files/dihydrogenmonoxide_src.zip
 ---
 Kildekoden til software demoen Dihydrogenmonoxide fra TG05 er sluppet. I
 denne pakken ligger også hele demomotoren jeg har jobbet med siden

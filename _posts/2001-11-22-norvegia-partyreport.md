@@ -3,7 +3,7 @@ layout: post
 title:  "Norvegia Partyreport"
 date:   2001-11-22 21:00:00
 author: silmaril
-external_link: http://www.demoscene.no/files/Norvegia_2001_Partyreport.zip
+external_link: /files/Norvegia_2001_Partyreport.zip
 ---
 Da er den endelig klar, partyreporten fra Norvegia. neon/nocturnal,
 cherox/nocturnal, dent/nocturnal, kusma/excess og lug00ber/kvasigen står
