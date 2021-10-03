@@ -19,6 +19,10 @@ defaults:
       path: "assets/logos"
     values:
       logo: true
+  - scope:
+      path: "files"
+    values:
+      file: true
 
 links:
   - title: pouet

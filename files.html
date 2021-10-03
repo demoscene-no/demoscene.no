@@ -1,0 +1,24 @@
+---
+layout: default
+title: filer
+---
+<ul id="file-list">
+{% assign files = site.static_files | where: "file", true %}
+{% for file in files %}
+  <li>
+    <h3><a href="{{ site.baseurl }}{{ file.path }}">{{ file.name }}</a></h3>
+
+  {% assign backlinks = site.posts | where: "external_link", file.path %}
+  {% if backlinks %}
+    <div>
+    Lenket fra:
+      <ul>
+    {% for item in backlinks %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+  </li>
+{% endfor %}
+</ul>
