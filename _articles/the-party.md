@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "The Party!"
 category: Partyreport
 date:     2001-12-28 02:48:51

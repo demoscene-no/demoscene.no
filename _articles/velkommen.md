@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "Velkommen"
 category: Diverse
 date:     2001-11-07 12:00:00

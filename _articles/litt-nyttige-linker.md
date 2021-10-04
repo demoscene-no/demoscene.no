@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "Litt Nyttige Linker"
 category: Diverse
 date:     2001-11-27 12:00:00

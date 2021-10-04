@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "Kindergarden Over"
 category: Partyreport
 date:     2001-11-13 12:00:00
