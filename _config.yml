@@ -7,6 +7,7 @@ url: "http://demoscene.no"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 paginate: 10
 

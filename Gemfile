@@ -6,6 +6,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
 end
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
