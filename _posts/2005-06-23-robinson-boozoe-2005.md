@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "ROBINSON BOOZOE 2005!"
 date:   2005-06-23 12:10:23
 author: kusma

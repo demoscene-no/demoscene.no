@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sign up, folkens!"
 date:   2003-02-04 19:21:03
 author: Dran

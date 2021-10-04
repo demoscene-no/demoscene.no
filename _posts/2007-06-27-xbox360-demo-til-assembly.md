@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Xbox360 demo til Assembly"
 date:   2007-06-27 14:08:01
 author: gloom

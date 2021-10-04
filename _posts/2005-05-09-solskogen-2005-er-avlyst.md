@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Solskogen 2005 er avlyst"
 date:   2005-05-09 23:22:59
 author: gloom

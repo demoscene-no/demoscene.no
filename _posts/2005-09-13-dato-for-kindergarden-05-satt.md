@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "DATO FOR KINDERGARDEN 05 SATT!"
 date:   2005-09-13 14:18:21
 author: kusma

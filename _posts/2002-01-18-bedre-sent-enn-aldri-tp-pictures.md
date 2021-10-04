@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Bedre sent enn aldri - TP pictures!"
 date:   2002-01-18 15:15:45
 author: gloom

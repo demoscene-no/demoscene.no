@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "#scene.no@efnet - nytt botnett"
 date:   2004-02-12 02:14:58
 author: lug00ber

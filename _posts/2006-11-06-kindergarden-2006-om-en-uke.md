@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kindergarden 2006 om en uke!"
 date:   2006-11-06 17:13:06
 author: kusma

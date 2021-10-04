@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Solskogen 2007 - 20. til 22. juli BEKREFTET!"
 date:   2007-04-25 14:40:41
 author: gloom

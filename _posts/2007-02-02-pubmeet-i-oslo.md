@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Pubmeet i Oslo"
 date:   2007-02-02 14:03:39
 author: gloom

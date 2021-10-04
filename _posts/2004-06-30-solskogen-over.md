@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Solskogen over"
 date:   2004-06-30 17:54:16
 author: silmaril

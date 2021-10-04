@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ølsalg Onsdag (beercompo-relatert)"
 date:   2003-04-10 17:29:35
 author: kusma

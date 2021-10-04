@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Skal du til Assembly?"
 date:   2006-05-19 08:55:45
 author: gloom

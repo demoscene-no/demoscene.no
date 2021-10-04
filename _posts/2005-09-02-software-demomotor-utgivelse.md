@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Software demomotor utgivelse"
 date:   2005-09-02 12:11:32
 author: activator

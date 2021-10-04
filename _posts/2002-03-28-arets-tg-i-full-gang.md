@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Årets TG i full gang!"
 date:   2002-03-28 19:32:40
 author: gloom

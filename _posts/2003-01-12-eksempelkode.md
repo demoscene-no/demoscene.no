@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Eksempelkode"
 date:   2003-01-12 17:48:37
 author: kusma

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "stream MEGA"
 date:   2005-09-01 13:39:48
 author: kusma

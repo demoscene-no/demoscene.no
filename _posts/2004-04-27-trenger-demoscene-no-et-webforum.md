@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Trenger demoscene.no et webforum?"
 date:   2004-04-27 20:11:37
 author: silmaril

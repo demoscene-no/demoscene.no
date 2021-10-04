@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "demoscene.no rss-feed"
 date:   2005-09-26 17:27:47
 author: kusma

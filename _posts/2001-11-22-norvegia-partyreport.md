@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Norvegia Partyreport"
 date:   2001-11-22 21:00:00
 author: silmaril

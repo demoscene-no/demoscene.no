@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "kandubussen avlyst"
 date:   2001-12-12 01:36:36
 author: kusma

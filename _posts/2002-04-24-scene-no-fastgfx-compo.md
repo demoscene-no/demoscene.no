@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "#scene.no fastgfx-compo"
 date:   2002-04-24 01:54:51
 author: fisk

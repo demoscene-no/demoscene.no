@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "underscore, skal du?"
 date:   2002-04-13 09:26:49
 author: kusma

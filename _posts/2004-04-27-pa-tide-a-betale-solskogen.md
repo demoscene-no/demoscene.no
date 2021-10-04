@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "På tide å betale Solskogen"
 date:   2004-04-27 12:11:56
 author: silmaril

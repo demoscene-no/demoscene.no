@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Premiere,Nerd..  25.april"
 date:   2004-04-25 17:15:07
 author: vamecum

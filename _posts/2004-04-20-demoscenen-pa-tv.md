@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Demoscenen på tv?"
 date:   2004-04-20 09:07:42
 author: silmaril

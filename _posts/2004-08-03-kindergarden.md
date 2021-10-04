@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kindergarden"
 date:   2004-08-03 09:00:58
 author: Leia

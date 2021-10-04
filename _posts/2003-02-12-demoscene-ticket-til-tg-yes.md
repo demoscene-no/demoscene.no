@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Demoscene-ticket til TG? Yes!"
 date:   2003-02-12 22:59:08
 author: gloom

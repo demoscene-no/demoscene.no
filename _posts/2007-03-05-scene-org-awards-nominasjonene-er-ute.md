@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Scene.org Awards nominasjonene er ute"
 date:   2007-03-05 10:45:41
 author: gloom

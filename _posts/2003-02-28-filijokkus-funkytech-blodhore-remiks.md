@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "FiliJokkus - Funkytech (Blodhore-remiks)"
 date:   2003-02-28 12:22:03
 author: FiliJokkus

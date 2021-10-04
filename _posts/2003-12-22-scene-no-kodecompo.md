@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "#scene.no kodecompo"
 date:   2003-12-22 01:02:20
 author: kusma

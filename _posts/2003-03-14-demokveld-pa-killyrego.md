@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Demokveld på Killyrego"
 date:   2003-03-14 01:56:16
 author: kusma

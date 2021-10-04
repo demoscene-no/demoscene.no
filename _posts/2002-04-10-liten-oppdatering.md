@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Liten oppdatering"
 date:   2002-04-10 14:23:31
 author: silmaril

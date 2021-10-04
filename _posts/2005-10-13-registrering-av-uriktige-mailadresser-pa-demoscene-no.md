@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Registrering av uriktige mailadresser på demoscene.no"
 date:   2005-10-13 19:20:33
 author: Slummy

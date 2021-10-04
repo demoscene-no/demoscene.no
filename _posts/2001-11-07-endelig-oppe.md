@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Endelig Oppe"
 date:   2001-11-07 13:00:00
 author: silmaril

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Stefan norsk demoscener!"
 date:   2005-07-20 20:44:18
 author: stefan

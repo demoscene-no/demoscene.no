@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Duckers lærer deg å lage demoer"
 date:   2005-04-12 10:06:05
 author: gloom

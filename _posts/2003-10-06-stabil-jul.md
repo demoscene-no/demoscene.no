@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Stabil Jul"
 date:   2003-10-06 19:23:25
 author: Leia

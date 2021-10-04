@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Falanx i Dagens Næringsliv"
 date:   2004-04-21 10:10:08
 author: silmaril

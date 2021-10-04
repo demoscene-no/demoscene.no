@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Den offisielle Kindergarden invtroen er ute!"
 date:   2003-01-31 11:17:48
 author: Dran

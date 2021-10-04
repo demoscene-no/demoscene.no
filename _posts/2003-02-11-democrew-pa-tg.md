@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Democrew på TG?"
 date:   2003-02-11 11:54:12
 author: Concrete

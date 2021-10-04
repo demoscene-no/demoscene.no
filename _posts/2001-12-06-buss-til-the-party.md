@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Buss til The Party"
 date:   2001-12-06 20:00:00
 author: silmaril

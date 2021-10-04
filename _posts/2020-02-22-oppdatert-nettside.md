@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Oppdatert nettside"
 author: kusma
 ---

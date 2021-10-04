@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "www.contraz.no"
 date:   2002-08-23 10:07:14
 author: Dran

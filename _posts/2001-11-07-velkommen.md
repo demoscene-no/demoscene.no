@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Velkommen"
 date:   2001-11-07 12:00:00
 author: silmaril

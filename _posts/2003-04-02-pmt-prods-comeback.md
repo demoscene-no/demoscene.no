@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "PMT Prods. comeback!"
 date:   2003-04-02 01:16:02
 author: Shock

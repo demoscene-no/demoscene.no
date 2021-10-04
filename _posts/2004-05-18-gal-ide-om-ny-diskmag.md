@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Gal ide om ny diskmag"
 date:   2004-05-18 14:28:09
 author: sphair

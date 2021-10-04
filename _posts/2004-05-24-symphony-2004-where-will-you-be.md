@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Symphony 2004 - where will you be?"
 date:   2004-05-24 21:18:48
 author: silentriot

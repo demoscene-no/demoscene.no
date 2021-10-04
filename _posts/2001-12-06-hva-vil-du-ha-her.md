@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hva vil du ha her?"
 date:   2001-12-06 15:00:00
 author: silmaril

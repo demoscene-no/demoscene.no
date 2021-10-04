@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Index Productions søker nye medlemmer"
 date:   2004-04-24 17:15:07
 author: rabbit
