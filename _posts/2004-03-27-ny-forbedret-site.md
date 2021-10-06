@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ny forbedret site!"
 date:   2004-03-27 13:20:33
 author: Shock

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ny scene-webside"
 date:   2003-05-23 00:49:48
 author: Madsy

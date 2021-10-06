@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kindergarden-sidene oppe"
 date:   2005-10-17 08:13:15
 author: Leia

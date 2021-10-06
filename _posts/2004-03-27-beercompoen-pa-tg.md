@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Beercompoen på TG"
 date:   2004-03-27 13:20:52
 author: kusma

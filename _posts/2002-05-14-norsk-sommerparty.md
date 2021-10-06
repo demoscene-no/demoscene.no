@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Norsk sommerparty!"
 date:   2002-05-14 17:37:39
 author: silmaril

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Velkommen til den kliss nye demoscene.no"
 date:   2002-12-24 00:21:52
 author: kusma

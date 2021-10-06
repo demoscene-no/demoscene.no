@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Litt Nyttige Linker"
 date:   2001-11-27 12:00:00
 author: silmaril

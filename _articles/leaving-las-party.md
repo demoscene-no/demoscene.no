@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "Leaving Las Party"
 category: Partyreport
 date:     2001-12-29 04:51:24

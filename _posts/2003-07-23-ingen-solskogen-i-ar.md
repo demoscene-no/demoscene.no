@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ingen Solskogen i år"
 date:   2003-07-23 11:52:15
 author: gloom

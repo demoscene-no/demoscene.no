@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "www.indexproductions.com"
 date:   2002-09-29 14:00:02
 author: rabbit

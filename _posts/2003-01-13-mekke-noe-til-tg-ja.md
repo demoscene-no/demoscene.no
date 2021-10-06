@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Mekke noe til TG? Ja!"
 date:   2003-01-13 23:07:02
 author: gloom

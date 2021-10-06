@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "(artikler>0)?(Diskmag):(Chartmag)"
 date:   2004-05-28 23:31:47
 author: activator

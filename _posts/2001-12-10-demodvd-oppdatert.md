@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "demoDVD oppdatert"
 date:   2001-12-10 16:10:05
 author: silmaril

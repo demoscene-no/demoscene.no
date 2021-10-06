@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ny C64-radio oppe!"
 date:   2002-04-09 21:26:00
 author: SLC

@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "Catmull-Rom splines"
 category: Matte
 date:     2001-11-21 22:00:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "BEERCOMPO @ TG"
 date:   2003-03-30 01:29:56
 author: kusma

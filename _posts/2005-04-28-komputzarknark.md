@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Komputzarknark"
 date:   2005-04-28 18:03:11
 author: kusma

@@ -16,6 +16,14 @@ collections:
 
 defaults:
   - scope:
+      path: "_articles"
+    values:
+      layout: article
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+  - scope:
       path: "assets/logos"
     values:
       logo: true

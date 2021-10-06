@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Solskogen 2003 er no-go"
 date:   2003-07-23 11:53:01
 author: gloom

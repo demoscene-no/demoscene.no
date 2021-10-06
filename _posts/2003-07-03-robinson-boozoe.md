@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Robinson Boozoe"
 date:   2003-07-03 22:34:42
 author: kusma

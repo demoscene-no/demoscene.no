@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Catmull-Rom splines"
 date:   2001-11-21 22:00:00
 author: silmaril

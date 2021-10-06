@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hva skal du delta med på TG 2005?"
 date:   2004-11-29 09:49:01
 author: gloom

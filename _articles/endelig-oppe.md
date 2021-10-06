@@ -1,5 +1,4 @@
 ---
-layout:   article
 title:    "Endelig Oppe"
 category: Diverse
 date:     2001-11-07 13:00:00

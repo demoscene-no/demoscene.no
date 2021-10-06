@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kildekoden til VIP2 er released"
 date:   2003-01-05 15:01:01
 author: gloom

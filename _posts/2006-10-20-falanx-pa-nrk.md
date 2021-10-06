@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Falanx på NRK"
 date:   2006-10-20 20:09:17
 author: gloom

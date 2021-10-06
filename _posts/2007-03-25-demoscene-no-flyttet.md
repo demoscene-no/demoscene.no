@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Demoscene.no flyttet"
 date:   2007-03-25 22:26:26
 author: kusma

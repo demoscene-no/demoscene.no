@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Avgi din stemme til Scene Awards"
 date:   2005-01-19 12:37:26
 author: gloom

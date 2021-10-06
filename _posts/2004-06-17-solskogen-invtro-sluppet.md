@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Solskogen invtro sluppet"
 date:   2004-06-17 18:05:29
 author: gloom

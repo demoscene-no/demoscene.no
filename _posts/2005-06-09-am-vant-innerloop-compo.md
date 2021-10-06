@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "AM vant Innerloop-compo"
 date:   2005-06-09 12:28:42
 author: gloom

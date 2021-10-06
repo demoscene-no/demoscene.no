@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ingen Stabil Jul :("
 date:   2003-11-11 20:56:10
 author: menacespb

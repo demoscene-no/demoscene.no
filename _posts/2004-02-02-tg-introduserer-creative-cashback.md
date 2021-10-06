@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "TG introduserer creative cashback"
 date:   2004-02-02 13:03:45
 author: gloom

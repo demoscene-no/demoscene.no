@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Demoscener-tickets til TG"
 date:   2005-01-25 09:32:18
 author: gloom

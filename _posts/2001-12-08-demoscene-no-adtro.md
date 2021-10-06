@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "demoscene.no adtro"
 date:   2001-12-08 14:56:38
 author: Sesse

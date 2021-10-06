@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Norsk diskmag under utvikling"
 date:   2004-04-18 03:12:43
 author: activator

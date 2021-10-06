@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "DemoDVD snart her!"
 date:   2002-10-16 23:17:25
 author: gloom

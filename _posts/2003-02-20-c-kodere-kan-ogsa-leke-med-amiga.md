@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "C-kodere kan også leke med Amiga"
 date:   2003-02-20 16:08:57
 author: Slummy

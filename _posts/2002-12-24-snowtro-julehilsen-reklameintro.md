@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "snowtro / julehilsen / reklameintro"
 date:   2002-12-24 04:25:19
 author: kusma

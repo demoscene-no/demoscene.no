@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Foredrag i Oslo, torsdag 3.april."
 date:   2003-03-31 17:57:06
 author: nelius

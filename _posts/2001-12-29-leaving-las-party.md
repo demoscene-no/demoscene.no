@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Leaving Las Party"
 date:   2001-12-29 04:51:24
 author: gloom

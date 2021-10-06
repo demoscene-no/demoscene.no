@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Twilight Zone kan gjenoppstå"
 date:   2004-07-20 18:47:45
 author: Dominei
