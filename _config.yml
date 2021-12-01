@@ -1,7 +1,8 @@
 title: Demoscene.no
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Demoscene.no is a website for the Norwegian demoscene community.
-baseurl: "" # the subpath of your site, e.g. /blog
+tagline: New and "improved" source code!
+baseurl: ""
 url: "http://demoscene.no"
 
 plugins:
