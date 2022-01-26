@@ -3,14 +3,13 @@ title: "Black Valley 2022"
 author: kusma
 external_link: https://blackvalley.party/
 ---
-Black Valley er et nytt sommerdemoparty i Oslo, Norge. Organisert av
-erfarne organisatorer fra tidligere utgaver av [Solskogen], [Kindergarden]
-og [Evoke] samt litt ferskt blod, ønsker vi å få dere til å smile i Juli
+Black Valley er et nytt demoparty i Oslo, Norge i sommer. Organisert av
+folk med erfaring fra tidligere utgaver av [Solskogen], [Kindergarden]
+og [Evoke] samt litt ferskt blod, ønsker vi å lage god stemning i Juli
 sammen med nye og gamle venner fra demoscenen.
 
-Mer informasjon om billetter og andre detaljer kommer snart --- pass på å
-abonnere på våre sosiale kanaler, lenker finner du på bunnene av nettsiden
-vår.
+Mer informasjon om billetter og øvrige detaljer kommer snart --- abonner
+gjerne på våre sosial nettverk, lenker finner du på bunnene av websiden vår.
 
 [Solskogen]: https://solskogen.no/
 [Kindergarden]: https://www.demoparty.net/kindergarden
