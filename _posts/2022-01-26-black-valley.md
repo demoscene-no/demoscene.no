@@ -9,7 +9,7 @@ og [Evoke] samt litt ferskt blod, ønsker vi å lage god stemning i Juli
 sammen med nye og gamle venner fra demoscenen.
 
 Mer informasjon om billetter og øvrige detaljer kommer snart --- abonner
-gjerne på våre sosial nettverk, lenker finner du på bunnene av websiden vår.
+gjerne på våre sosial nettverk, lenker finner du nedert på nettsiden vår.
 
 [Solskogen]: https://solskogen.no/
 [Kindergarden]: https://www.demoparty.net/kindergarden
