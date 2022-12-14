@@ -1,7 +1,7 @@
 ---
 title: "Black Valley 2022"
 author: kusma
-external_link: https://blackvalley.party/
+external_link: https://2022.blackvalley.party/
 ---
 Black Valley er et nytt demoparty i Oslo, Norge i sommer. Organisert av
 folk med erfaring fra tidligere utgaver av [Solskogen], [Kindergarden]
